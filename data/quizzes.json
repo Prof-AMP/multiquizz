@@ -1,0 +1,14 @@
+[
+  {
+    "id": "1",
+    "nome": "React Native",
+    "icon": "react",
+    "screen": "QuizGrupo1"
+  },
+  {
+    "id": "2",
+    "nome": "Geografia",
+    "icon": "earth",
+    "screen": "QuizGrupo2"
+  }
+]
